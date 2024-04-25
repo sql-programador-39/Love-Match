@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "correo@correo.com",
+      "password": "123456",
+      "genre": "Masculino",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "interests": [
+        "futbol",
+        "cine",
+        "guitarra",
+        "vino"
+      ],
+      "age": 25,
+      "likes": [],
+      "matchs": []
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "correo2@correo.com",
+      "password": "123456",
+      "genre": "Femenino",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "interests": [
+        "voley",
+        "gym",
+        "senderismo",
+        "surf"
+      ],
+      "age": 35,
+      "likes": [],
+      "matchs": []
+    },
+    {
+      "id": "3",
+      "name": "Andrea Perez",
+      "email": "correo3@correo.com",
+      "password": "123456",
+      "genre": "Femenino",
+      "description": "lorem ipsum dolor sit amet, dwqdq dqwqdqwd qdwqdqgythny  ehtewqefqq qconsectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "interests": [
+        "tenis",
+        "gym",
+        "cerveza",
+        "viajar"
+      ],
+      "age": 18,
+      "likes": [],
+      "matchs": []
+    },
+    {
+      "id": "4",
+      "name": "Maria Perez",
+      "email": "correo4@correo.com",
+      "password": "123456",
+      "genre": "Femenino",
+      "description": "lorem ipsum dolor sit  inc enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "interests": [
+        "programacion",
+        "paisajes",
+        "naturaleza",
+        "musica"
+      ],
+      "age": 22,
+      "likes": [],
+      "matches": []
+    },
+    {
+      "id": "5",
+      "name": "Juan marin",
+      "email": "correo5@correo.com",
+      "password": "123456",
+      "genre": "Masculino",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "interests": [
+        "fiesta",
+        "nadar",
+        "restuarantes",
+        "mascotas"
+      ],
+      "age": 30,
+      "likes": [],
+      "matchs": []
+    },
+    {
+      "id": "6",
+      "name": "Luisa Marin",
+      "email": "correo2@correo.com",
+      "password": "123456",
+      "genre": "Femenino",
+      "description": "lorem ipsuinim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "interests": [
+        "pintar",
+        "poemas",
+        "viajar",
+        "gym"
+      ],
+      "age": 40,
+      "likes": [],
+      "matchs": []
+    },
+    {
+      "id": "7",
+      "name": "Pedro Salazar",
+      "email": "correo2@correo.com",
+      "password": "123456",
+      "genre": "Masculino",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "interests": [
+        "videojuegos",
+        "cine",
+        "musica",
+        "futbol"
+      ],
+      "age": 24,
+      "likes": [],
+      "matchs": []
+    },
+    {
+      "id": 1278570671430180,
+      "name": "Camilo Ardila",
+      "email": "miloardila98@gmail.com",
+      "password": "123456",
+      "genre": "Masculino",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "interests": [
+        "videojuegos",
+        "gym",
+        "violin"
+      ],
+      "age": "29",
+      "likes": [],
+      "matchs": []
+    }
+  ]
+}

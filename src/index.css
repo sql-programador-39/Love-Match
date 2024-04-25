@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.imagen {
+  transition: opacity 0.5s ease-in-out;
+}
+
+.imagen2 {
+  opacity: 0; /* Inicialmente oculta la segunda imagen */
+}
+
+.fadeOut {
+  opacity: 0; /* Cuando la clase fadeOut está activa, oculta la primera imagen */
+}
+
+.fadeIn {
+  opacity: 1; /* Cuando la clase fadeIn está activa, muestra la segunda imagen */
+}
+
+.hidden {
+  display: none;
+}
